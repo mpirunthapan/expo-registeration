@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "anyio",
+        "autoflush",
+        "colorama",
+        "dnspython",
+        "dotenv",
+        "fastapi",
+        "idna",
+        "passlib",
+        "psycopg",
+        "pyasn",
+        "pycache",
+        "pydantic",
+        "regs",
+        "sessionmaker",
+        "sqlalchemy",
+        "starlette",
+        "uvicorn",
+        "venv"
+    ]
+}
